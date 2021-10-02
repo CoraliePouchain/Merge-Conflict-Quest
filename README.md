@@ -1,3 +1,3 @@
-# Merge-Conflict-Quest
+LOCAL
 
 J'adore Git.
