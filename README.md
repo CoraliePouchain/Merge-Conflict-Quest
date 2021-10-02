@@ -1,3 +1,3 @@
-# Merge-Conflict-Quest
+REMOTE
 
 J'adore Git.
